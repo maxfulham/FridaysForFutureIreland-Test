@@ -1,5 +1,5 @@
-# FridaysForFuture.org
-This repository is used to develop and maintain the international website of FridaysForFuture, a grassroots movement urging politicians and media to treat the climate crisis as a serious threat.
+# FridaysForFuture Testing
+This repository is used to develop and maintain the Test  website of FridaysForFuture Ireland, a grassroots movement urging politicians and media to treat the climate crisis as a serious threat.
 
 ## Prerequisites
 The project uses the css preprocessor Less, utilizing Node.js to install and run the npm modules less and less-watch-compiler.
